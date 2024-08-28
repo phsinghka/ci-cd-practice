@@ -114,9 +114,3 @@ Welcome to my CICD learning journey! This repository will track my progress as I
     - **Project 49:** Monitor and optimize end-to-end CI/CD pipelines for efficiency.
     - **Project 50:** Create dashboards and reports for CI/CD performance analysis.
 
-## Getting Started
-
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
